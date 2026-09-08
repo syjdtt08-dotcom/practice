@@ -1,11 +1,11 @@
-\# Git, GitHub, and Markdown
+# Git, GitHub, and Markdown
 
-\## About Me
+## About Me
 
-\- Name: 손영진
-\- Course: Open Source Software
+- Name: 손영진
+- Course: Open Source Software
 
-\## GitHub
+## GitHub
 
 I am learning how to use Git and GitHub.
 
